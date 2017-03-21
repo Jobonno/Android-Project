@@ -35,6 +35,7 @@ public String msg;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        // Inflate the view
         setContentView(R.layout.activity_main);
     }
 
