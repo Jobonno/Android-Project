@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="add_item">Add Item</string>
+    <string name="edit_items">View List</string>
+    <string name="remove_items">Clear List</string>
+    <string name="sample">sample</string>
+    <string name="sample_1">1</string>
+    <string name="name_of_item">Name of Item:</string>
+    <string name="clear_all">Clear All</string>
+    <string name="quantity">Quantity:</string>
+</resources>
